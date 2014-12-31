@@ -6,7 +6,7 @@ Compile
 for normal *.c compile it with 
 gcc *.c -o *
 
-Because of multithread, compile the 4th Server.c with
+Because of multithread, compile the Server.c in 4 directory and in FileServerOne directory with
 gcc Server.c -o Server -lpthread
 
 Usage
