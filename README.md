@@ -7,7 +7,7 @@ for normal *.c compile it with
 ----
 gcc *.c -o *
 
-Because of multithread, compile the Server.c in 4 and FileServerOne with
+Because of multithread, compile the Server.c in 4 and FileServerTwo with
 ---
 gcc Server.c -o Server -lpthread
 
