@@ -11,5 +11,6 @@ gcc Server.c -o Server -lpthread
 
 Usage
 ======================
-Server Usage  : ./Server port
-Client Usage  : ./Client IP port
+Server Usage:  ./Server port
+
+Client Usage:  ./Client IP port
